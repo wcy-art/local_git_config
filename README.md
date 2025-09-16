@@ -1,2 +1,1 @@
-# local_git_config
-git_config
+一个简单的个人仓库
